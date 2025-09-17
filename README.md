@@ -1,5 +1,4 @@
-![Image](https://github.com/user-attachments/assets/01dc239d-d690-4338-bc81-68bedc6ea71f)
-
+[![My Skills](https://skillicons.dev/icons?i=aws,pr,py,github,nodejs)](https://skillicons.dev)
 <!--
 **taehwan0809/taehwan0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

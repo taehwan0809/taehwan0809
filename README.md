@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=aws,pr,py,github,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,pr,py,github,nodejs,fastapi)](https://skillicons.dev)
 <!--
 **taehwan0809/taehwan0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
